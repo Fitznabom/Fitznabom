@@ -60,7 +60,7 @@
 
 ## Работа с базами данных
 <div>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg" title="Mongo DB" alt="Mongo DB" width="40" height="40"/>&nbsp
   <img src="https://cdn.worldvectorlogo.com/logos/metabase.svg" title="Metabase" alt="Metabase" width="40" height="40"/>&nbsp
   <img src="https://raw.githubusercontent.com/belyakovko/belyakovko/4a6018393c97357a2f9122f3695af94b5931d3b2/assets/logo_dbeaver.png" title="DBeaver" alt="DBeaver" width="40" height="40"/>&nbsp
