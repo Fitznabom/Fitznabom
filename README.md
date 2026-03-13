@@ -81,7 +81,7 @@
 <br>
 
 ## 🎒 Образование
-[<img src="/certificate_auto.png" width="280px" hspace="10px" alt="Сертификат hiiire»">](https://raw.githubusercontent.com/Fitznabom/Fitznabom/refs/heads/main/Sertificate%20base.png)
+[<img src="/certificate_auto.png" width="280px" hspace="10px" alt="Сертификат base»">](https://raw.githubusercontent.com/Fitznabom/Fitznabom/refs/heads/main/Sertificate%20base.png)
 
 <br>
 <br>
