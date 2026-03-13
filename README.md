@@ -75,13 +75,13 @@
 <br>
 
 ## 🪴 Практика и стажировка
-[<img src="/certificate_auto.png" width="280px" hspace="10px" alt="Сертификат hiiire»">](https://raw.githubusercontent.com/Fitznabom/Fitznabom/refs/heads/main/Intership_hiiire.png)
+[<img src="/Intership_hiiire.png" width="280px" hspace="10px" alt="Сертификат hiiire»">](https://raw.githubusercontent.com/Fitznabom/Fitznabom/refs/heads/main/Intership_hiiire.png)
 
 
 <br>
 
 ## 🎒 Образование
-[<img src="/certificate_auto.png" width="280px" hspace="10px" alt="Сертификат base»">](https://raw.githubusercontent.com/Fitznabom/Fitznabom/refs/heads/main/Sertificate%20base.png)
+[<img src="/Sertificate base.png" width="280px" hspace="10px" alt="Сертификат base»">](https://raw.githubusercontent.com/Fitznabom/Fitznabom/refs/heads/main/Sertificate%20base.png)
 
 <br>
 <br>
