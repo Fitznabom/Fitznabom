@@ -76,7 +76,7 @@
 
 ## 🪴 Практика и стажировка
 [<img src="/certificate_auto.png" width="280px" hspace="10px" alt="Сертификат hiiire»">](https://github.com/Fitznabom/Fitznabom/blob/main/ivan_klimkin-hiiire.png)
-[<img src="/certificate3.png" width="280px" hspace="10px" alt="Сертификат 4fresh»">](https://raw.githubusercontent.com/German-D/German-D/main/certificate3.png)
+[<img src="/certificate3.png" width="280px" hspace="10px" alt="Сертификат база»">](https://github.com/Fitznabom/Fitznabom/blob/main/Сертификат%20база.png)
 
 <br>
 
