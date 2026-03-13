@@ -7,11 +7,6 @@
 - :dart: Моя цель - **стать высококлассным QA-специалистом**, который вносит значимый вклад в **обеспечение безупречного качества продукта и его развитие**.</br>
 - 🤝 **Открыт к сотрудничеству** и cтремлюсь попасть в команду, где смогу применить базовые навыки и быстро расти под руководством опытных коллег. </br>
 
-## 📊 Статистика
-
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?layout=donut&langs_count=6&hide_progress=true&username=Fitznabom)
-
 <!-- Выбор темы ↑↑: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md --> 
 <!-- Настройка отображения ↑↑: https://github.com/anuraghazra/github-readme-stats/ --> 
 
@@ -86,8 +81,7 @@
 <br>
 
 ## 🎒 Образование
-[<img src="/diploma-with-number_ru.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/German-D/German-D/refs/heads/main/diploma-with-number_ru.png)
-[<img src="/Letter12.png" width="280px" hspace="10px" alt="Рекомендательное письмо»">](https://raw.githubusercontent.com/German-D/German-D/main/Letter12.png)
+
 
 <br>
 <br>
