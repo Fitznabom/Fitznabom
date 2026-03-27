@@ -76,7 +76,7 @@
 
 ## 🪴 Практика и стажировка
 [<img src="/Intership_hiiire.png" width="280px" hspace="10px" alt="Сертификат hiiire»">](https://raw.githubusercontent.com/Fitznabom/Fitznabom/refs/heads/main/Intership_hiiire.png)
-[<img src="/Intership_buysellvouchers.png" width="280px" hspace="10px" alt="Сертификат buysellvouchers»">](https://raw.githubusercontent.com/Fitznabom/Fitznabom/refs/heads/main/ivan_klimkin-buysellvouchers.png)
+[<img src="/ivan_klimkin-buysellvouchers.png" width="280px" hspace="10px" alt="ivan_klimkin-buysellvouchers»">](https://raw.githubusercontent.com/Fitznabom/Fitznabom/refs/heads/main/ivan_klimkin-buysellvouchers.png)
 
 <br>
 
